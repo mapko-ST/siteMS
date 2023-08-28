@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/siteMS/static/css/main.24d261ee.css",
+    "main.js": "/siteMS/static/js/main.51fdd10e.js",
+    "static/js/415.517f17b8.chunk.js": "/siteMS/static/js/415.517f17b8.chunk.js",
+    "static/js/787.6905185d.chunk.js": "/siteMS/static/js/787.6905185d.chunk.js",
+    "static/media/dali2.png": "/siteMS/static/media/dali2.5be5c3086a503bb03e2d.png",
+    "static/media/immersive.png": "/siteMS/static/media/immersive.ec274be1d624bef8a8f4.png",
+    "static/media/fitCo.png": "/siteMS/static/media/fitCo.2ba525b885d29919b55f.png",
+    "static/media/justePrix.png": "/siteMS/static/media/justePrix.ce1ea181eb583c5de973.png",
+    "static/media/biotex.png": "/siteMS/static/media/biotex.758af87ea037f4581a26.png",
+    "static/media/digicom.png": "/siteMS/static/media/digicom.94e434ad5288a07d0f5c.png",
+    "static/media/compositionPs5.png": "/siteMS/static/media/compositionPs5.47d1a57e7f396d508f4e.png",
+    "static/media/about.png": "/siteMS/static/media/about.d020add2668c41ea395c.png",
+    "static/media/cardNautilus.png": "/siteMS/static/media/cardNautilus.962627cd2eebae35641e.png",
+    "static/media/cv_Marc_STELIGA.pdf": "/siteMS/static/media/cv_Marc_STELIGA.a1fd68a9f429f1dbed01.pdf",
+    "static/media/nautilus.png": "/siteMS/static/media/nautilus.5745018b8cfc994580f6.png",
+    "static/media/compositionCv.png": "/siteMS/static/media/compositionCv.f3e605a97d98610d0441.png",
+    "static/media/compositionGuideline2.png": "/siteMS/static/media/compositionGuideline2.ad092d8db08c29f161b4.png",
+    "static/media/home-main.svg": "/siteMS/static/media/home-main.c73fbd5fc882cee6d2509060f42f7a8b.svg",
+    "static/media/logo.png": "/siteMS/static/media/logo.7b86b860f8389d060cc3.png",
+    "static/media/avatar.svg": "/siteMS/static/media/avatar.9051d1c0a9634b0f416fc959973ad7e8.svg",
+    "static/media/pre.svg": "/siteMS/static/media/pre.408629e830035614addb.svg",
+    "index.html": "/siteMS/index.html",
+    "main.24d261ee.css.map": "/siteMS/static/css/main.24d261ee.css.map",
+    "main.51fdd10e.js.map": "/siteMS/static/js/main.51fdd10e.js.map",
+    "415.517f17b8.chunk.js.map": "/siteMS/static/js/415.517f17b8.chunk.js.map",
+    "787.6905185d.chunk.js.map": "/siteMS/static/js/787.6905185d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24d261ee.css",
+    "static/js/main.51fdd10e.js"
+  ]
+}
