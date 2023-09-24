@@ -594,6 +594,7 @@ button:focus {
 
 @media (max-width: 767px) {
   .about-img {
+    opacity: 1;
     padding-top: 0 !important;
   }
 }
