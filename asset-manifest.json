@@ -24,8 +24,8 @@
     "index.html": "/siteMS/index.html",
     "main.24d261ee.css.map": "/static/css/main.24d261ee.css.map",
     "main.51fdd10e.js.map": "/static/js/main.51fdd10e.js.map",
-    "415.517f17b8.chunk.js.map": "/static/js/415.517f17b8.chunk.js.map",
-    "787.6905185d.chunk.js.map": "/static/js/787.6905185d.chunk.js.map"
+    "415.517f17b8.chunk.js.map": "/siteMS/static/js/415.517f17b8.chunk.js.map",
+    "787.6905185d.chunk.js.map": "/siteMS/static/js/787.6905185d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24d261ee.css",
