@@ -21,11 +21,11 @@
     "static/media/logo.png": "/static/media/logo.7b86b860f8389d060cc3.png",
     "static/media/avatar.svg": "/static/media/avatar.9051d1c0a9634b0f416fc959973ad7e8.svg",
     "static/media/pre.svg": "/static/media/pre.408629e830035614addb.svg",
-    "index.html": "/siteMS/index.html",
+    "index.html": "/index.html",
     "main.24d261ee.css.map": "/static/css/main.24d261ee.css.map",
     "main.51fdd10e.js.map": "/static/js/main.51fdd10e.js.map",
-    "415.517f17b8.chunk.js.map": "/siteMS/static/js/415.517f17b8.chunk.js.map",
-    "787.6905185d.chunk.js.map": "/siteMS/static/js/787.6905185d.chunk.js.map"
+    "415.517f17b8.chunk.js.map": "/static/js/415.517f17b8.chunk.js.map",
+    "787.6905185d.chunk.js.map": "/static/js/787.6905185d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24d261ee.css",
